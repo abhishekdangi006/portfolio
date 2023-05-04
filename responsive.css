@@ -2,6 +2,9 @@
     body {
       font-size: 12px;
     }
+    .timeline-logo {
+      margin-left: -10vw;
+  }
   }
   
   /* Responsive Navbar*/
@@ -9,6 +12,7 @@
     .nav-menu li {
       margin: 0px 4px;
     }
+    
   }
   
   @media only screen and (max-width: 768px) {

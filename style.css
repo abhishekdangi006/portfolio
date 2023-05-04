@@ -151,7 +151,7 @@ a {
   height: 75vh;
   min-height: 450px;
   font-size: 1rem;
-  background-image: url(https://ninjasfiles.s3.amazonaws.com/asset_0000000000000020_1549743985_macbook_mouse.jpg);
+  background-image: url(./images/background.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -367,6 +367,7 @@ a {
 .timeline-logo {
     position: absolute;
     width: 50px;
+    margin-left: -5vw;
     /* overflow: hidden; */
 }
 
