@@ -368,7 +368,7 @@ a {
     position: absolute;
     width: 50px;
     margin-left: -5vw;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 
 .timeline-logo > img {
