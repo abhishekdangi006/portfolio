@@ -6,6 +6,15 @@
       margin-left: -10vw;
   }
   }
+
+  @media only screen and (max-width: 414px) {
+    body {
+      font-size: 11px;
+    }
+    .timeline-logo {
+      margin-left: -12vw;
+  }
+  }
   
   /* Responsive Navbar*/
   @media only screen and (max-width: 768px) {
